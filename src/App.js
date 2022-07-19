@@ -25,7 +25,7 @@ function App() {
     <main>
       <section className="menu section">
         <div>
-          <h2 className="title">menu project setup</h2>
+          <h2 className="title">React Filterable Component - Menu Items</h2>
           <div className="underline"></div>
         </div>
       </section>
